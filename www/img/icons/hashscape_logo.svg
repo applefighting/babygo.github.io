@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="177" height="48" viewBox="0 0 177 48">
-  <g id="组_16307" data-name="组 16307" transform="translate(-371 -18)">
-    <text id="HashScape" transform="translate(371 57)" fill="#fff" font-size="36" font-family="PlayfairDisplay-Regular, Playfair Display"><tspan x="0" y="0">HashScape</tspan></text>
-    <rect id="矩形_7234" data-name="矩形 7234" width="135" height="3" transform="translate(371 60)" fill="#0cf"/>
-    <rect id="矩形_7235" data-name="矩形 7235" width="26" height="3" transform="translate(521 60)" fill="#0cf"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="171" height="40" viewBox="0 0 171 40">
+  <g id="组_2" data-name="组 2" transform="translate(-371 -22)">
+    <text id="HashScape" transform="translate(371 54)" fill="#fff" font-size="36" font-family="TimesNewRomanPS-BoldMT, Times New Roman" font-weight="700"><tspan x="0" y="0">HashScape</tspan></text>
+    <rect id="矩形_7234" data-name="矩形 7234" width="135" height="3" transform="translate(371 57)" fill="#0cf"/>
+    <rect id="矩形_7235" data-name="矩形 7235" width="26" height="3" transform="translate(515 57)" fill="#0cf"/>
   </g>
 </svg>
